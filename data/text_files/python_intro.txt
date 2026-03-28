@@ -1,0 +1,1 @@
+This is a sample text file for testing RAG. It contains multiple lines of text to simulate a real document. The purpose of this file is to provide content for retrieval and generation tasks in the RAG framework.
