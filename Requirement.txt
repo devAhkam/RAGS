@@ -10,4 +10,5 @@ langchain-groq
 python-dotenv
 typesense
 langchain-openai
+langchain-huggingface
 langgraph
